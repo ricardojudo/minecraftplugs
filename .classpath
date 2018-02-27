@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ArrayAddMoreBlocks/src"/>
+	<classpathentry kind="src" path="ArrayOfBlocks/src"/>
+	<classpathentry kind="src" path="ArrayPlay/src"/>
+	<classpathentry kind="src" path="BackCmd/src"/>
+	<classpathentry kind="src" path="BackCmdListener/src"/>
+	<classpathentry kind="src" path="BackCmdSave/src"/>
+	<classpathentry kind="src" path="BuildAHouse/src"/>
+	<classpathentry kind="src" path="CakeTower/src"/>
+	<classpathentry kind="src" path="CowShooter/src"/>
+	<classpathentry kind="src" path="CreeperCow/src"/>
+	<classpathentry kind="src" path="FireBow/src"/>
+	<classpathentry kind="src" path="FlyingCreeper/src"/>
+	<classpathentry kind="src" path="HashPlay/src"/>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="install"/>
+	<classpathentry kind="src" path="LavaVision/src"/>
+	<classpathentry kind="src" path="ListPlay/src"/>
+	<classpathentry kind="src" path="LocationSnapshot/src"/>
+	<classpathentry kind="src" path="MySimple/src"/>
+	<classpathentry kind="src" path="NameCow/src"/>
+	<classpathentry kind="src" path="NamedSigns/src"/>
+	<classpathentry kind="src" path="numbers"/>
+	<classpathentry kind="src" path="PlayerStuff/src"/>
+	<classpathentry kind="src" path="Simple/src"/>
+	<classpathentry kind="src" path="SkyCmd/src"/>
+	<classpathentry kind="src" path="SquidBomb/src"/>
+	<classpathentry kind="src" path="SquidBombConfig/src"/>
+	<classpathentry kind="src" path="Stuck/src"/>
+	<classpathentry kind="lib" path="HelloWorld/dist/HelloWorld.jar"/>
+	<classpathentry kind="lib" path="/home/mvp/Downloads/BuildTools/Spigot/Spigot-API/target/spigot-api-1.12.2-R0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="HelloWorld/bin"/>
+</classpath>
