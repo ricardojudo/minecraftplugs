@@ -10,9 +10,9 @@
 
 # Set the variable MCSERVER to ~/Desktop/server
 # unless it's already set
-: ${MCSERVER:="$HOME/Desktop/server"}
+: ${MCSERVER:="../_server"}
 
-BUKKIT="$MCSERVER"/bukkit.jar
+BUKKIT="$MCSERVER"/lib/bukkit.jar
 
 # Make sure that the bukkit jar
 # exists and is readable
